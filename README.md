@@ -1,5 +1,3 @@
-<div align="center">
-  <a href="https://github.com/AfonsoPint0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afonsopint0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsopint0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=50fa7a&icon_color=50fa7a&text_color=fff&bg_color=3c4556">
+</a>
