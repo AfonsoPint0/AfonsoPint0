@@ -6,5 +6,5 @@
 </div>
 
 <div align="center">
-  <a href="https://app.daily.dev/afonsopint0"><img src="https://api.daily.dev/devcards/ae2b268d35724d888e19d90ea384eed8.png?r=cvf" width="400" alt="Afonso Pinto's Dev Card"/></a>
+  <a href="https://app.daily.dev/afonsopint0"><img src="https://api.daily.dev/devcards/ae2b268d35724d888e19d90ea384eed8.png?r=giy" width="400" alt="Afonso Pinto's Dev Card"/></a>
 </div>
